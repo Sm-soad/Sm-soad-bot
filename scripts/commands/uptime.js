@@ -103,7 +103,7 @@ let l1 = await loadImage(pathAva);
     ctx.filter = "brightness(90%) contrast(110%)";
     ctx.font = "130px phenomicon";
     ctx.fillStyle = lengthchar[id].colorBg;
-    ctx.fillText("UPTIME ROBOT", 95, 340);
+    ctx.fillText("SOAD ROBOT", 95, 340);
     ctx.beginPath();
   ////////////////////////////////////////
    registerFont(__dirname + `/nayan/UTM-Avo.ttf`, {
